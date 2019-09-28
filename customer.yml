@@ -1,3 +1,5 @@
+server:
+    port: 8083
 application:
   welcome:
     message: This is an example
